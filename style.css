@@ -204,6 +204,7 @@ justify-content: center;
     flex-direction: column;
     border-color: lightgrey;
   }
+  
   #name{
     width: 20px;
     height: 20px;
